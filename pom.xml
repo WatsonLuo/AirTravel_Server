@@ -9,7 +9,7 @@
     <version>1.0-SNAPSHOT</version>
 
     <properties>
-        <spring.version>5.1.7.RELEASE</spring.version>
+        <spring.version>5.3.18</spring.version>
         <jackson.version>2.9.4</jackson.version>
         <mysqlconn.version>8.0.16</mysqlconn.version>
         <mybatis.version>3.4.4</mybatis.version>
