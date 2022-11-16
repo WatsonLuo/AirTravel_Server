@@ -10,7 +10,7 @@
 
     <properties>
         <spring.version>5.1.7.RELEASE</spring.version>
-        <jackson.version>2.9.4</jackson.version>
+        <jackson.version>2.12.7.1</jackson.version>
         <mysqlconn.version>8.0.16</mysqlconn.version>
         <mybatis.version>3.4.4</mybatis.version>
         <druid.version>1.0.16</druid.version>
